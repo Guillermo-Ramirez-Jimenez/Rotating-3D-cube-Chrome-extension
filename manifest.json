@@ -1,0 +1,11 @@
+{
+    "name": "3D cube",
+    "version": "1.0.0",
+    "description": "Rotating 3D cube",
+    "manifest_version": 3,
+    "author": "Guille",
+    "action":   {
+        "default_popup": "index.html",
+        "default_title": "3D cube"
+    }
+}
